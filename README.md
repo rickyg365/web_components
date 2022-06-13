@@ -1,2 +1,10 @@
-# web_components
-A variety of different components and html, css,  js tricks and components
+# Web  Components
+A variety of different components using HTML, CSS, and JS tricks/components
+
+
+## Table of Contents
+- Component 1
+- Component 2
+
+
+
